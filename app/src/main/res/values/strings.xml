@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TPDM_U1_Practica1_MiriamJanethBarajasLopez</string>
+    <string-array name="estadosR">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Coahuila de Zaragoza</item>
+        <item>Colima</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Distrito Federal</item>
+        <item>	Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>México</item>
+        <item>Michoacán </item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Querétaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosí</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Yucatán</item>
+        <item>Zacatecas</item>
+    </string-array>
+    <string-array name="marcas">
+        <item>Anastasia Beverly Hills</item>
+        <item>BH Cosmetics</item>
+        <item>ColourPop</item>
+        <item>Dose of Colors</item>
+        <item>Fenty Beauty</item>
+        <item>Gerard Cosmetics</item>
+        <item>Huda Beauty</item>
+        <item>Jeffre Star Cosmetics</item>
+        <item>Juvia Place</item>
+        <item>Morphe Brushes</item>
+        <item>Tarte Cosmetics</item>
+        <item>Wet n Wild</item>
+    </string-array>
+</resources>
